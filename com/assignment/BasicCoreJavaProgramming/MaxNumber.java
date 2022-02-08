@@ -1,4 +1,4 @@
-package com.assignment.Day5Practice;
+package com.assignment.BasicCoreJavaProgramming;
 
 import java.util.Scanner;
 
